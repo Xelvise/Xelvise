@@ -13,8 +13,7 @@ I started out with Python (data & ML) and evolved into backend engineering, QA, 
 Production-ready subscription API: lifecycle modeling, multi-currency billing, scheduled renewal reminders (email/webhooks), background job resilience, and serverless deployment.
 See [here](https://github.com/Xelvise/SubTracka)
 
-- **DevQuora — Developer Q&A forum**
-A developer-focused Q&A forum with auth, posting/answering, tagging, voting, search-friendly feeds, rate-limiting, and notification hooks — built for integration and scale.
+- **DevQuora — Developer Q&A forum**: A developer-focused Q&A forum with auth, posting/answering, tagging, voting, search-friendly feeds, rate-limiting, and notification hooks — built for integration and scale.
 See [here](https://github.com/Xelvise/dev-quora)
 
 
