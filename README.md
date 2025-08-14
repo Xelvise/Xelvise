@@ -1,4 +1,4 @@
-## Node.js Backend Engineer 👋
+## Node.js Backend Engineer
 
 Pragmatic engineer, with a track record of transforming prototypes into robust scalable services. 
 I develop production-fit APIs and reliable server-side systems that teams can ship and operate with confidence.
