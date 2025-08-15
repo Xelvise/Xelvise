@@ -7,7 +7,7 @@ I develop production-fit APIs and reliable server-side systems that teams can sh
 
 I started out with Python (data & ML) and evolved into backend engineering, QA, and production APIs. I have designed and shipped end-to-end services (TypeScript, Express/Nest, SQL/NoSQL), implemented secure auth patterns, and built resilient serverless workflows and background jobs. I care deeply about developer experience — clear migrations, Docker Compose for local dev, observability, and defensive features (rate limiting, input validation).
 
-### Key projects — my strengths 💪
+### Key projects
 
 - **SubTracka**: A production-fit subscription API featuring lifecycle modeling, multi-currency billing, scheduled renewal reminders (email/webhooks), background job resilience, and serverless deployment.
 See [here](https://github.com/Xelvise/SubTracka)
