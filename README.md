@@ -1,13 +1,11 @@
 ## Node.js Backend Engineer
 
-Pragmatic engineer, with a track record of transforming prototypes into robust scalable services. 
-I develop production-fit APIs and reliable server-side systems that teams can ship and operate with confidence.
+👋 Hi — I’m Elvis. I help teams move fast without breaking things: building Node.js-powered backend services and resilient APIs that are easy to run, monitor, and extend.
+I have built operable systems, reliable background workers, and serverless integrations designed with observability and defensive defaults. My goal is to reduce production surprises and make maintenance predictable.
 
-### Preambles from my journey
+Browse my pinned projects, or reach out on [LinkedIn](https://linkedin.com/in/elvisgideon001), to see how I turn ideas into resilient, shippable systems.
 
-I started out with Python (data & ML) and evolved into backend engineering, QA, and production APIs. I have designed and shipped end-to-end services (TypeScript, Express/Nest, SQL/NoSQL), implemented secure auth patterns, and built resilient serverless workflows and background jobs. I care deeply about developer experience — clear migrations, Docker Compose for local dev, observability, and defensive features (rate limiting, input validation).
-
-### Key projects
+### Key projects that solves real problems
 
 - **SubTracka**: A production-fit subscription API featuring lifecycle modeling, multi-currency billing, scheduled renewal reminders (email/webhooks), background job resilience, and serverless deployment.
 See [here](https://github.com/Xelvise/SubTracka)
