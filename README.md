@@ -33,7 +33,7 @@ See [here](https://github.com/Xelvise/dev-quora)
 
 ### Open to
 
-Backend Engineer (Junior) role at fast-growing Node.js-powered startups (FinTech, HealthTech, e-commerce, logistics, etc.)
+Junior Backend Engineer role at a fast-growing Node.js-powered startup (FinTech, HealthTech, e-commerce, logistics, etc.) wherein career growth is supported and ingenuity is appreciated.
 
 <!--
 **Xelvise/Xelvise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
