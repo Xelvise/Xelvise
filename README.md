@@ -1,6 +1,6 @@
 ## Node.js Backend Engineer
 
-👋 Hi — I’m Elvis. I help teams move fast without breaking things: building Node.js-powered backend services and resilient APIs that are easy to run, monitor, and extend.
+👋 Hi — I’m Elvis. I help teams move fast without breaking things, building Node.js-powered backend services and resilient APIs that are easy to run, monitor, and extend.
 I have built operable systems, reliable background workers, and serverless integrations designed with observability and defensive defaults. My goal is to reduce production surprises and make maintenance predictable.
 
 Browse my pinned projects, or reach out on [LinkedIn](https://linkedin.com/in/elvisgideon001), to see how I turn ideas into resilient, shippable systems.
