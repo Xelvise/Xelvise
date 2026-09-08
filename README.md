@@ -1,11 +1,11 @@
-## Node.js Backend Engineer
+## Full Stack Web Developer
 
-👋 Hi — I’m Elvis. I help teams move fast without breaking things, building Node.js-powered backend services and resilient APIs that are easy to run, monitor, and extend.
+👋 Hi — I’m Elvis. I help teams move fast without breaking things, building backend services and resilient APIs that are easy to run, monitor, and extend.
 I have built operable systems, reliable background workers, and serverless integrations designed with observability and defensive defaults. My goal is to reduce production surprises and make maintenance predictable.
 
 Browse my pinned projects, or reach out on [LinkedIn](https://linkedin.com/in/elvisgideon001), to see how I turn ideas into resilient, shippable systems.
 
-### Key projects that solves real problems
+### Few projects that solves real problems
 
 - **SubTracka**: A production-fit subscription API featuring lifecycle modeling, multi-currency billing, scheduled renewal reminders (email/webhooks), background job resilience, and serverless deployment.
 See [here](https://github.com/Xelvise/SubTracka)
@@ -16,7 +16,9 @@ See [here](https://github.com/Xelvise/dev-quora)
 
 ### Areas of expertise
 
-- **Backend**: Express.js, Nest.js, TypeScript, RESTful API design, Websockets, Microservices.
+- **Front-End**: React.js, React Native, TailwindCSS, Next.js
+  
+- **Back-End**: Express.js, Nest.js, Springboot, RESTful API design, Websockets, Microservices.
 
 - **SQL/NoSQL Databases**: Redis, PostgreSQL + Drizzle ORM, MongoDB + Mongoose, Schema & query design for reads/writes.
 
@@ -28,12 +30,12 @@ See [here](https://github.com/Xelvise/dev-quora)
 
 - **Product-minded engineering**: Designing operable systems (not just prototypes), resilient features, and clean APIs for integration.
 
-- **Complementary skills**: QA/testing mindset, data/ML background, front-end integration awareness.
+- **Complementary skills**: LLM Training & Evaluation, QA/testing mindset.
 
 
 ### Open to
 
-Node.js Backend Engineer role at a fast-growing startup (FinTech, HealthTech, e-commerce, logistics, etc.) wherein career growth is supported and ingenuity is appreciated.
+Senior Backend Engineering roles at a fast-growing startup (FinTech, HealthTech, E-commerce, logistics, etc.) where ingenuity is rewarded.
 
 <!--
 **Xelvise/Xelvise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
